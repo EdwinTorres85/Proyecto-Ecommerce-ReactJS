@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "img": "/img/Cargadores1.jpg",
+        "title": "Cargador CH-50",
+        "price": 24000,
+        "category": "vintage",
+        "description": "Cuenta con dos puertos usb de salida por lo que puedes recargar dos dispositivos al tiempo."
+    },
+    {
+        "id": 2,
+        "img": "/img/Holders2.jpg",
+        "title": "CAR CHARGUER CH-18",
+        "price": 35000,
+        "category": "vintage",
+        "description": "cuenta con tres salidas de corriente en las cuales puedes poner tres diferentes dispositivos al tiempo al mismo amperaje cuenta con un cable micro usb."
+    },
+    {
+        "id": 3,
+        "img": "/img/Audifono3.jpg",
+        "title": "Bluetooth Igoma X3",
+        "price": 45000,
+        "category": "vintage",
+        "description": "Diseño de cabezal magnético, se puede utilizar en conjunto o por separado; Música estéreo de alta fidelidad y sonido cristalino."
+    },
+    {
+        "id": 4,
+        "img": "/img/Parlantes.jpg",
+        "title": "G-MONSTER GSL-04",
+        "price": 90000,
+        "category": "g-shock",
+        "description": "Torre de sonido G-MONSTER, ideal para espacios pequeños, sonidos graves y mejorador de voz para más nitidez en espacios abiertos, sonido envolvente de ultra máxima calida, sonido inteligente para vivir una mejor experiencia, ecualizador de audio y múltiples funciones."
+    }
+]
