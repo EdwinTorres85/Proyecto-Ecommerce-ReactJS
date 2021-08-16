@@ -19,3 +19,7 @@ Al clickear botón "finalizar compra" nos dará un mensaje con el cógido de ord
 El stock es manejado por firestore y se actualiza por cada orden de compra realizado.
 
 Las colecciones creadas en firestore son de items, categories y órdenes.
+
+
+
+![image](https://user-images.githubusercontent.com/78805793/129563838-475a773f-bb36-4b4c-b50d-1b60f979d7f8.png)
